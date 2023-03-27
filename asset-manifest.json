@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/pokeDEX-API/static/js/main.abefdd7f.js",
+    "index.html": "/pokeDEX-API/index.html",
+    "main.abefdd7f.js.map": "/pokeDEX-API/static/js/main.abefdd7f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.abefdd7f.js"
+  ]
+}
